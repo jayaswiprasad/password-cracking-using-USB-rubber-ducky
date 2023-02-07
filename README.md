@@ -7,5 +7,4 @@ USB Rubber ducky is like a hacking tool that looks like a pen drive. This is use
 Algorithm: 
 
 Brute force:
-
 Brute force is a simple attack method and has a high success rate. Some attackers use applications and scripts as brute-force tools. These tools try out numerous password combinations to bypass authentication processes.
